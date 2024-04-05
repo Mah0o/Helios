@@ -17,13 +17,9 @@
 
 ###
 
-<img align="right" height="154" src="https://pbs.twimg.com/media/DeXiNKOWsAAKZLk?format=jpg&name=large"  />
+<img align="right" height="154" src="https://ibb.co/x2ScTFq"  />
 
 ###
 
-<div align="left">
-  <img src="https://ibb.co/x2ScTFq" height="35" alt="instagram logo"  />
-</div>
 
-###
 
