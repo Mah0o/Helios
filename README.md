@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right" height="154" src="(https://i.ibb.co/vcxrnX4/Screenshot-2.png"  />
+<img align="right" height="154" src="https://i.ibb.co/vcxrnX4/Screenshot-2.png"  />
 
 ###
 
