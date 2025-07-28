@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.yunbaoo-cn.com/sitemap.xml
+
+# Disallow sensitive files
+Disallow: /*.log$
+Disallow: /.htaccess
+Disallow: /admin/
+Disallow: /private/
+
+# Allow CSS and JS
+Allow: /styles.css
+Allow: /script.js
+Allow: /*.css$
+Allow: /*.js$
+
+# Crawl delay (optional)
+Crawl-delay: 1
